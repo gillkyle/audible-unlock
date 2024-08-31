@@ -12,7 +12,7 @@ To get a book, it requires a few steps:
 
 ## Prerequisites
 
-> These steps are catered to MacOS, but you can find Windows and Linux steps below that aren't vetted.
+> These steps are catered to MacOS, but you can find [Windows and Linux steps here](https://github.com/inAudible-NG/tables) that I haven't vetted.
 
 Download softwares you'll need, ffmpeg for converting files, wine for running the Windows binaries, and the git repo for cloning needed rainbow table files (`*.rtc`).
 
